@@ -49,7 +49,7 @@ spec:
       project: default
 
       sources:
-        - repoURL: https://github.com/senpaikcarter/gitops-cert-level-3-examples.git
+        - repoURL: https://kostis-codefresh.github.io/multi-sources-example
           path: helm-multi-source/my-chart
           targetRevision: HEAD
           helm:
