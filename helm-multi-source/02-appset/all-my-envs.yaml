@@ -62,7 +62,6 @@ spec:
         - repoURL: 'https://github.com/senpaikcarter/gitops-cert-level-3-examples.git'
     targetRevision: HEAD
     ref: values
-      
       # Destination cluster and namespace to deploy the application
       destination:
         server: https://kubernetes.default.svc
