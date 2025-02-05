@@ -4,5 +4,5 @@
     "type": "non-prod",
     "version": "qa",
     "chart": "0.2.0",
-    "cache size": "8192kb"
+    "cacheSize": "8192kb"
   }
